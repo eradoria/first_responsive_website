@@ -137,14 +137,14 @@ h2{
       font-size:150px;
     }
     .title2{
-      grid-column: 1/2;
+      grid-column: 1/4;
       grid-row: 2/3;
       width: 100%;
     }
     .title3{
-      grid-column: 1/2;
+      grid-column: 1/4;
       grid-row: 3/4;}
     .title4{
-      grid-column: 1/2;
+      grid-column: 1/4;
       grid-row: 4/5;}
   }
